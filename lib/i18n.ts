@@ -21,10 +21,10 @@ export const translations = {
     about: {
       title: "About Camp Sun",
       subtitle: "A place where memories last a lifetime",
-      body: "Камп Сонце is a summer camp in the heart of Macedonia designed for children aged 4–10. We combine Macedonian language learning with outdoor adventures, sports, and creative play — all in a safe, nurturing environment surrounded by mountains, forests, and fresh air.",
-      stat1: { value: "4–10", label: "Ages welcome" },
+      body: "Камп Сонце is a summer camp in the heart of Macedonia designed for children in three age groups: 4–6, 6–8, and 8–10. We combine Macedonian language learning with outdoor adventures, sports, and creative play — all in a safe, nurturing environment surrounded by mountains, forests, and fresh air.",
+      stat1: { value: "4–6 · 6–8 · 8–10", label: "Age groups" },
       stat2: { value: "2 weeks", label: "Camp duration" },
-      stat3: { value: "20:1", label: "Child-to-staff ratio" },
+      stat3: { value: "10:1", label: "Child-to-staff ratio" },
       stat4: { value: "100%", label: "Nature immersion" },
     },
     activities: {
@@ -128,10 +128,10 @@ export const translations = {
     about: {
       title: "За Камп Сонце",
       subtitle: "Место каде спомените траат засекогаш",
-      body: "Камп Сонце е летен камп во срцето на Македонија наменет за деца на возраст 4–10 години. Ги комбинираме учењето на македонски јазик со авантури во природа, спорт и креативна игра — сè во безбедна и поддржувачка средина опкружена со планини, шуми и свеж воздух.",
-      stat1: { value: "4–10", label: "Возраст" },
+      body: "Камп Сонце е летен камп во срцето на Македонија наменет за деца во три возрасни групи: 4–6, 6–8 и 8–10 години. Ги комбинираме учењето на македонски јазик со авантури во природа, спорт и креативна игра — сè во безбедна и поддржувачка средина опкружена со планини, шуми и свеж воздух.",
+      stat1: { value: "4–6 · 6–8 · 8–10", label: "Возрасни групи" },
       stat2: { value: "2 недели", label: "Времетраење" },
-      stat3: { value: "20:1", label: "Деца по вработен" },
+      stat3: { value: "10:1", label: "Деца по вработен" },
       stat4: { value: "100%", label: "Природа" },
     },
     activities: {
